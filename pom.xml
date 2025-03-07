@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>in.arc</groupId>
 	<artifactId>arcDemo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-RELEASE</version>
 	<name>arcDemo</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
